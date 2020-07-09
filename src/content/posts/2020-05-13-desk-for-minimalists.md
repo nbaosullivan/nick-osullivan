@@ -4,7 +4,7 @@ title: DIY reflective and insulated van window covers
 slug: diy-van-window-covers
 date: 2020-07-09 08:39
 description: sdasd
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+featuredImage: /assets/img_7358.jpg
 ---
 Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
 
