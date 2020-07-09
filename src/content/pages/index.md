@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Wheel Be Fine
 tagline: Converting our Mercedes Sprinter into a home
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/img_3962.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
