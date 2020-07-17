@@ -6,5 +6,7 @@ date: 2020-07-17 10:05
 description: "Smart Van with a Raspberry Pi 4: Part 2 GPS"
 ---
 * sudo apt-get install gpsd
+* Check which device it is, in mycase  dev/ttyACM0
+* Add GPSD_OPTIONS="/dev/ttyACM0" to **/etc/default/gpsd**
 
 sudo apt-get install gpsd
